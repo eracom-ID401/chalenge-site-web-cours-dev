@@ -3,8 +3,11 @@ body{
     font-family: 'Roboto', sans-serif;
     border: 0px;
     background-color: rgb(168, 255, 159);
+    
 }
-
+p,li, div {
+    color: red;
+}
 h1{
     margin: 0px;
 }
