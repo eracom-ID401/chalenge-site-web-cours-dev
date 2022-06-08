@@ -93,3 +93,6 @@ footer{
     display: flex;
     justify-content: space-between;
 }
+.calltoaction:hover{
+    background-color: rgb(100, 100, 100);
+}
