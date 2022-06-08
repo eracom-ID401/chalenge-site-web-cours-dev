@@ -58,7 +58,6 @@ body{
 }
 .lienest{
     color: white;
-    text-decoration: none;
 }
 .centrertxt{
     padding: 31% 0;
@@ -78,7 +77,19 @@ body{
     display: flex;
     flex-direction: row;
     gap: 3rem;
+    margin-bottom: 40px;
 }
 .contenu{
     margin: 40px 10%;
+}
+footer{
+    background-color: rgb(39, 39, 39);
+    color: white;
+    padding: 40px 10%;
+    font-weight: 300;
+}
+.footerbas{
+    margin-top: 40px;
+    display: flex;
+    justify-content: space-between;
 }
